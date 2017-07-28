@@ -1,0 +1,19 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "Slack bot that greets when user says Hello Aary",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hello-bot",
+    "slack-bot"
+  ],
+  "author": "Manan Patel",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
